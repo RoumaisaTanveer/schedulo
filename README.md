@@ -1,24 +1,32 @@
-# README
+# 📅 Scheduler App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A web-based scheduling/calendar application built using the [DHTMLX Scheduler](https://dhtmlx.com/docs/products/dhtmlxScheduler/), JavaScript, and PostgreSQL. Designed for event management, appointment booking, or any use case involving calendar-based data.
 
-Things you may want to cover:
+---
 
-* Ruby version
+## 🚀 Features
 
-* System dependencies
+- Interactive and customizable JavaScript calendar UI
+- Day, Week, and Month views
+- Add, edit, delete events
+- Persistent event storage in PostgreSQL
+- Responsive and user-friendly interface
+- Backend API integration for full CRUD functionality
 
-* Configuration
+---
 
-* Database creation
+## 🛠️ Tech Stack
 
-* Database initialization
+- **Frontend:**
+  - [DHTMLX Scheduler](https://dhtmlx.com/docs/products/dhtmlxScheduler/)
+  - Vanilla JavaScript / HTML / CSS
 
-* How to run the test suite
+- **Backend:**
+  - Node.js (Express or your chosen framework)
+  - REST API for event management
 
-* Services (job queues, cache servers, search engines, etc.)
+- **Database:**
+  - PostgreSQL
 
-* Deployment instructions
+---
 
-* ...
