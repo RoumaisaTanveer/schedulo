@@ -22,11 +22,12 @@ A web-based scheduling/calendar application built using the [DHTMLX Scheduler](h
   - Vanilla JavaScript / HTML / CSS
 
 - **Backend:**
-  - Node.js (Express or your chosen framework)
+  - Rails (or your chosen framework)
   - REST API for event management
 
 - **Database:**
   - PostgreSQL
+
 
 ---
 
